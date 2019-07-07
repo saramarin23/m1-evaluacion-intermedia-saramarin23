@@ -62,7 +62,7 @@ img {
     margin-top: 13px;
 }
 
-.main_div p {
+.main_div h1 {
     color: #FFFFFF;
     font-size: 30px;
     font-weight: bold;
@@ -97,7 +97,7 @@ img {
         align-self: flex-end;
     }
 
-    .main_div p {
+    .main_div h1 {
         font-size: 40px;
     }
 }
